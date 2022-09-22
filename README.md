@@ -1,5 +1,5 @@
 # MongoDB JS Injection CLI
-**Interactive JS injection into MongoDB.**
+**Interactive JS injection into MongoDB (NoSQL).**
 
 This scripts allows you to easily list existing variables and print their values using blind JS injection (the only required output from the victim is some kind of true/false - by default it is error/no error).
 
